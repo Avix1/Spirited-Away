@@ -8,6 +8,7 @@ export const HeaderDiv = styled.div`
     align-items: center;
     justify-content: space-between;
     padding: 1rem 1.625rem;
+    
     @media screen and (min-width: 992px) {
         width: 70vw;
         margin: 0 auto;

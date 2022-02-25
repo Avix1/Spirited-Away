@@ -4,7 +4,7 @@ export const Button = styled.button`
     display: none;
     @media screen and (min-width: 992px) {
         background-color: transparent;
-        border: 2px solid var(--primary);
+        border: 2px solid #658e76;
         display: flex;
         align-items: center;
         justify-content: space-between;
