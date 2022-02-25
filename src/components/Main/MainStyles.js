@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import Image from '../../assets/images/haku.png'
+import Image from '../../assets/images/haku-2.png'
 
 export const HomeImage = styled.img.attrs({ src: Image })`
     width: 25rem;
